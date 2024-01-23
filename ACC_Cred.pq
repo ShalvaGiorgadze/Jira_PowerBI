@@ -1,1 +1,1 @@
-//"VTB_Powerbi: Basic Auth:sh.giorgadze@vtb.ge 3XRz4UsLFIicvXjxNRph9B72"
+//"VTB_Powerbi: Basic Auth:user_name Key"
